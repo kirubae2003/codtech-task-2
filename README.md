@@ -1,6 +1,6 @@
 # codtech-task-2
 
-CODTECH-TASK1#
+CODTECH-TASK2#
 
 
 Name: Kiruba E
